@@ -17,7 +17,7 @@ Shortly é um serviço de encurtamento de URLs desenvolvido em Java utilizando o
 ### 1. Clonar o Repositório
 
 ```
-git clone https://github.com/alexsouza10/shortly.git
+git clone https://github.com/alexsouza10/shortly-url.git
 
 cd shortly
 ```
